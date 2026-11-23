@@ -1,0 +1,9 @@
+{
+  "name": "edubridge-community-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small local website for an education support project concept.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
